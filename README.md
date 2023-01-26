@@ -1,1 +1,1 @@
-https://aquibshaikh313.github.io/Reactproj/ShoppingIndex.js
+https://aquibshaikh313.github.io/Reactproj/index.js
