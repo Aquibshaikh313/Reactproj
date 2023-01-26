@@ -1,0 +1,14 @@
+.home{
+      font-family: 'Gill Sans';
+      font-size: 45px;
+}
+
+.click{
+    text-decoration: none;
+}
+
+.click:hover{
+    text-decoration: underline;
+    color: red;
+}
+
